@@ -3,7 +3,7 @@
 ## 目的
 
 - Nest.jsがlegacy decoratorに依存している
-- ESM系が扱いにくい
+- Nest.jsでESMが扱いにくい
 - 設計上nullセーフにしにくい（tsconfigのstrictNullCheckがデフォルトfalseなのも、設計上の理由な気がする）
 
 ## マイルストーン
