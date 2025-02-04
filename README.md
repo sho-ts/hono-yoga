@@ -5,7 +5,7 @@
 - 以下を解消したい
   - Nest.jsがlegacy decoratorに依存している
   - Nest.jsでESMが扱いづらい
-  - 設計上nullセーフにしづらい（tsconfigのstrictNullCheckがデフォルトfalseなのも、設計上の理由な気がする）
+  - 設計上nullセーフにしづらい（Nest.jsのtsconfigのstrictNullCheckがデフォルトfalseなのも、設計上の理由な気がする）
 
 ## マイルストーン
 
